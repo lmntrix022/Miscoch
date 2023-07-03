@@ -1,0 +1,486 @@
+{
+  "navbar": [
+    {
+      "id": "about",
+      "title": "A Propos"
+    },
+    {
+      "id": "work",
+      "title": "Nos Services"
+    },
+    {
+      "id": "folio",
+      "title": "Portfolio"
+    },
+    {
+      "id": "ressources",
+      "title": "Ressources"
+    },
+    {
+      "id": "faq",
+      "title": "FAQ"
+    },
+    {
+      "id": "contact",
+      "title": "Contact"
+    }
+  ],
+  "home": {
+    "bien": "",
+    "p_company": "Nous sommes Miscoch IT",
+    "presentation_acc_1": "une agence digital située a Casablanca,",
+    "presentation_acc_2": "spécialisée dans la création de site web,",
+    "presentation_acc_3": "d'interfaces utilisateurs sur mesure, d'applications mobiles pour Android et iOS, et en création de contenu sociaux.",
+    "cta": "Nous contacter"
+  },
+  "about": {
+    "title": "INTRODUCTION",
+    "textHead": "Vue d'ensemble.",
+    "descprition": "Nous sommes une agence de développement web qui combine notre expertise technique avec une compréhension approfondie de votre entreprise pour créer des expériences en ligne personnalisées et hautement performantes. Nous sommes passionnés par les technologies de pointe et nous nous engageons à être constamment à l'avant-garde des dernières tendances et innovations en matière de développement web. Notre approche centrée sur le client nous permet de collaborer étroitement avec vous à chaque étape du processus de développement pour vous guider vers le succès en ligne. Contactez-nous aujourd'hui pour discuter de votre projet et découvrir comment nous pouvons vous aider à réaliser vos objectifs en ligne."
+  },
+  "services": [
+    {
+      "title": "Création de site web et d'application sur mesure",
+      "icon": "src/assets/world-wide-web.png"
+    },
+    {
+      "title": "Développement d'application Mobile sur android et ios",
+      "icon": "src/assets/developer.png"
+    },
+    {
+      "title": "Optimisation resultat  SEO & SEA - Google ads",
+      "icon": "src/assets/seeeeo.png"
+    },
+    {
+      "title": "Marketing des médias sociaux et création de contenu",
+      "icon": "src/assets/mark.png"
+    }
+  ],
+  "exper": {
+    "head": "Ce que nous faisons",
+    "headBig": "Nos Services."
+  },
+  "experM": [
+    {
+      "title": "Développement Web",
+      "company_name": "Miscoch IT",
+      "icon": "src/assets/logo.svg",
+      "iconBg": "#383E56",
+      "date": "</ Le développement web est un équilibre subtil entre la simplicité et la complexité, où chaque ligne de code a un impact sur l'expérience de l'utilisateur. >",
+      "points": [
+        "Développer et maintenir des applications web en utilisant React.js et d'autres technologies connexes.",
+        "Collaborer avec des équipes interfonctionnelles, notamment des concepteurs, des gestionnaires de produits et d'autres développeurs, afin de créer des produits de haute qualité.",
+        "Mise en œuvre de la conception réactive et garantie de la compatibilité entre les navigateurs.",
+        "Participer aux revues de code et fournir un retour d'information constructif aux autres développeurs."
+      ]
+    },
+    {
+      "title": "Développement d'applications mobiles",
+      "company_name": "Miscoch IT",
+      "icon": "src/assets/logo.svg",
+      "iconBg": "#E6DEDD",
+      "date": "</ Les applications mobiles transforment nos smartphones en véritables boîtes à outils, nous permettant d'accomplir des tâches autrefois impossibles en quelques clics. >",
+      "points": [
+        "Développer et maintenir des applications web en utilisant React Native et d'autres technologies connexes",
+        "UI design (User Interface) : l'aspect et la navigation de votre application jouent un rôle crucial dans le succès d'une application. C'est la manière dont votre application mobile interagit avec ses utilisateurs. L'interface utilisateur doit être uniforme et simple.",
+        "UX (User Experience) : c'est le point de vue de vos utilisateurs. Cela aura un impact sur la façon dont ils voient votre marque. Ce doit être sans accros. N'oubliez pas non plus que vos utilisateurs naviguent sur votre application sur un petit écran."
+      ]
+    },
+    {
+      "title": "Développement d'applications d'entreprises",
+      "company_name": "Miscoch IT",
+      "icon": "src/assets/logo.svg",
+      "iconBg": "#383E56",
+      "date": "</ Les applications d'entreprises sont des outils puissants qui transforment la façon dont les entreprises interagissent avec leurs clients, leurs partenaires et leurs employés, créant ainsi une valeur durable. >",
+      "points": [
+        "Nous spécialisée dans le développement web de CRM pour les entreprises.",
+        "Notre approche centrée sur le client et notre engagement envers l'excellence nous permet de créer des solutions de CRM sur mesure et hautement performantes pour répondre aux besoins spécifiques de nos clients.",
+        "Nous sommes passionnés par les dernières tendances et technologies de pointe en matière de développement web de CRM et nous sommes constamment à l'affût de nouvelles façons d'optimiser l'expérience utilisateur et d'améliorer l'efficacité opérationnelle.",
+        "Contactez-nous pour découvrir comment nous pouvons vous aider à atteindre vos objectifs commerciaux grâce à une solution de CRM personnalisée."
+      ]
+    },
+    {
+      "title": "Marketing des médias sociaux",
+      "company_name": "Miscoch IT",
+      "icon": "src/assets/logo.svg",
+      "iconBg": "#E6DEDD",
+      "date": "</ Le marketing des médias sociaux permet aux marques de partager leur histoire, leur personnalité et leurs valeurs, créant ainsi une connexion émotionnelle avec leur public. >",
+      "points": [
+        "Explorez le pouvoir de la présence en ligne avec notre expertise en marketing des médias sociaux.",
+        "Notre équipe passionnée repousse les limites créatives pour offrir des expériences visuelles captivantes qui émerveilleront vos clients et engageront votre public.",
+        "Devenez un leader digital grâce à nos stratégies avant-gardistes et notre maîtrise des tendances.",
+        "Contactez-nous dès maintenant pour transformer votre vision en une réalité sociale inoubliable."
+      ]
+    }
+  ],
+  "project": {
+    "head": "NOS TRAVAUX",
+    "headBig": "Projets.",
+    "headDesc": "Les projets suivants mettent en valeur nos compétences et notre expérience à travers des exemples concrets de nos travaux. Il reflète notre capacité à résoudre des problèmes complexes, à travailler avec différentes technologies, et à gérer des projets de manière efficace."
+  },
+  
+    "projectL": [
+      
+      {
+        "name": "Site web vitrine professionnel",
+        "desc": "Votre entreprise mérite une présence en ligne qui impressionne ! Avec notre expertise en création de sites vitrines professionnels, nous pouvons mettre en valeur votre activité et attirer l'attention de vos clients potentiels. Du design moderne et épuré à la présentation claire de vos produits ou services, nous vous offrons une vitrine en ligne qui reflète l'image de votre entreprise. Augmentez votre visibilité et suscitez l'intérêt de vos visiteurs grâce à un site vitrine à la fois esthétique et informatif.",
+        "tags": [
+          { "name": "Nextjs", "color": "blue-text-gradient" },
+          { "name": "Chakra-ui", "color": "green-text-gradient" },
+          { "name": "Sanity", "color": "pink-text-gradient" },
+          { "name": "Typescript", "color": "orange-text-gradient" }
+        ],
+        "image": "src/assets/entreprise.jpeg",
+        "source_code_link": "https://github.com/"
+      },
+      {
+        "name": "Portfolio personnel",
+        "desc": "Mettez en valeur vos compétences et réalisations avec un portfolio personnel impressionnant. Présentez vos projets, partagez votre parcours professionnel et montrez votre créativité. Un portfolio interactif et bien conçu pour vous démarquer dans votre domaine.",
+        "tags": [
+          { "name": "Vite", "color": "blue-text-gradient" },
+          { "name": "SCSS", "color": "green-text-gradient" },
+          { "name": "JavaScript", "color": "orange-text-gradient" },
+          { "name": "Threejs", "color": "pink-text-gradient" }
+        ],
+        "image": "src/assets/portfolio.jpeg",
+        "source_code_link": "https://github.com/"
+      },
+      {
+        "name": "Site web d'agence immobilière",
+        "desc": "Donnez à votre agence immobilière une présence en ligne professionnelle et attrayante. Avec notre expertise en développement web, nous pouvons créer un site web d'agence immobilière personnalisé pour vous aider à présenter et promouvoir vos biens immobiliers de manière efficace. Du design moderne et esthétique à la convivialité de l'interface, nous mettons l'accent sur l'expérience utilisateur optimale. Les visiteurs pourront facilement parcourir les différentes catégories de biens immobiliers, filtrer les résultats en fonction de leurs préférences, consulter des galeries de photos attrayantes, en savoir plus sur les caractéristiques et les détails des propriétés, et prendre contact avec votre agence pour organiser des visites. ",        "tags": [
+          { "name": "React", "color": "purple-text-gradient" },
+          { "name": "Next.js", "color": "blue-text-gradient" },
+          { "name": "CSS", "color": "green-text-gradient" },
+          { "name": "JavaScript", "color": "orange-text-gradient" },
+          { "name": "Graphql", "color": "pink-text-gradient" }
+        ],
+        "image": "src/assets/realest.jpeg",
+        "source_code_link": "https://github.com/"
+      },
+      {
+        "name": "Site web de restaurant",
+        "desc": "Votre restaurant mérite une présence en ligne à la hauteur de sa cuisine exceptionnelle. Laissez-nous créer le site web de votre restaurant et mettez en valeur vos délicieux plats et votre atmosphère unique. Grâce à notre expertise en matière de développement web, nous pouvons vous proposer un site élégant et intuitif, conçu spécialement pour attirer l'attention de vos clients et stimuler leurs papilles gustatives. Grâce à une interface conviviale, les visiteurs pourront naviguer facilement dans les différentes sections du site, explorer votre menu alléchant, découvrir les ingrédients frais utilisés dans vos plats et obtenir des informations sur les réservations et les horaires d'ouverture.",
+        "tags": [
+          { "name": "React", "color": "pink-text-gradient" },
+          { "name": "Next.js", "color": "blue-text-gradient" },
+          { "name": "CSS", "color": "green-text-gradient" },
+          { "name": "Typescript", "color": "orange-text-gradient" }
+        ],
+        "image": "src/assets/food.png",
+        "source_code_link": "https://github.com/"
+      },
+      {
+        "name": "Application web de gestion de projet",
+        "desc": "Gérez vos projets efficacement avec cette application web basée sur Next.js. Suivez les tâches, attribuez des ressources, visualisez les rapports de progression et collaborez en temps réel avec votre équipe. Une solution complète pour améliorer la productivité de votre équipe de projet.",
+        "tags": [
+          { "name": "sanity", "color": "pink-text-gradient" },
+          { "name": "Next.js", "color": "blue-text-gradient" },
+          { "name": "JavaScript", "color": "orange-text-gradient" },
+          { "name": "HTML", "color": "blue-text-gradient" },
+          { "name": "CSS", "color": "green-text-gradient" }
+        ],
+        "image": "src/assets/management.png",
+        "source_code_link": "https://github.com/"
+      },
+      {
+        "name": "Application mobile de messagerie instantanée ",
+        "desc": "Restez connecté avec vos proches grâce à cette application mobile de messagerie instantanée. Envoyez des messages, partagez des photos et des vidéos, et profitez de fonctionnalités avancées telles que les appels audio et vidéo. Disponible à la fois sur les plateformes Android et iOS grâce à l'utilisation de React Native et Flutter.",
+        "tags": [
+          { "name": "Flutter", "color": "blue-text-gradient" },
+          { "name": "Android", "color": "green-text-gradient" },
+          { "name": "Firebase", "color": "orange-text-gradient" },
+          { "name": "Dart", "color": "pink-text-gradient" }
+        ],
+        "image": "src/assets/messenger.png",
+        "source_code_link": "https://github.com/"
+      },
+      {
+        "name": "Site web e-commerce",
+        "desc": "Créez votre boutique en ligne avec ce site web e-commerce réactif et performant. Gérez les produits, les commandes, les paiements et offrez une expérience d'achat fluide à vos clients. Le site est développé en utilisant React, Next.js et Angular pour combiner les avantages de ces frameworks.",
+        "tags": [
+          { "name": "Angular", "color": "green-text-gradient" },
+          { "name": "Typescript", "color": "blue-text-gradient" },
+          { "name": "HTML", "color": "pink-text-gradient" },
+          { "name": "CSS", "color": "orange-text-gradient" },
+          { "name": "Mongodb", "color": "green-text-gradient" }
+        ],
+        "image": "src/assets/ecomm.png",
+        "source_code_link": "https://github.com/"
+      },
+      {
+        "name": "Application mobile de suivi d'activité physique avec React Native ",
+        "desc": "Suivez vos activités physiques et votre condition physique avec cette application mobile intuitive. Enregistrez vos séances d'entraînement, suivez vos progrès, fixez-vous des objectifs et obtenez des statistiques détaillées. Disponible à la fois sur les plateformes Android et iOS grâce à l'utilisation de React Native et Flutter.",
+        "tags": [
+          { "name": "React Native", "color": "blue-text-gradient" },
+          { "name": "Tailwindcss", "color": "green-text-gradient" },
+          { "name": "JavaScript", "color": "orange-text-gradient" },
+          { "name": "Graphql", "color": "pink-text-gradient" },
+          { "name": "Grafbase", "color": "pink-text-gradient" }
+
+        ],
+        "image": "src/assets/gym.gif",
+        "source_code_link": "https://github.com/"
+      }
+    ],
+  
+  
+
+
+  
+  "ressource": {
+    "head": "UN PEU DE CONNAISSANCE",
+    "headBig": "Ressources",
+    "headToogle": "Articles de blog",
+    "headToogle2": "Tutoriels"
+  },
+  "ressourceT": 
+  [
+    {
+      "name":"Création d'un site web avec WordPress",
+      "description":"Dans ce tutoriel, vous apprendrez étape par étape comment créer un site web professionnel en utilisant WordPress, l'un des CMS les plus populaires et conviviaux. Que vous soyez un débutant ou un utilisateur avancé, ce guide vous guidera à travers chaque étape, de l'installation de WordPress à la personnalisation du thème et à l'ajout de contenu. Veuillez remplir le formulaire de contact afin de recevoir le fichier PDF.",
+      "tags": [
+       
+        {
+          "name": "A savoir",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "Installation",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "Personalisation",
+          "color": "pink-text-gradient"
+        },
+        {
+          "name": "Plugins",
+          "color": "orange-text-gradient"
+        },
+        {
+          "name": "Maintenance",
+          "color": "green-text-gradient"
+        }
+      ],
+      "image": "src/assets/wordpess.svg"
+    },
+    {
+      "name":"Guide complet pour développer une stratégie de marketing des médias sociaux réussie",
+      "description":"Ce tutoriel vous aidera à comprendre les principes clés du marketing des médias sociaux et à élaborer une stratégie efficace pour promouvoir votre entreprise sur les plateformes de médias sociaux. Vous découvrirez les meilleures pratiques pour la création de contenu, l'engagement des utilisateurs et la mesure des résultats, afin d'optimiser votre présence en ligne.Veuillez remplir le formulaire de contact afin de recevoir le fichier PDF.",
+      "tags": 
+      [
+        {
+          "name": "Rechercher",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "Comparer",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "Choisir",
+          "color": "orange-text-gradient"
+        },
+        {
+          "name": "S'ameliorer",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "src/assets/strategiem.jpeg"
+    },
+    {
+      "name":"Guide complet pour optimiser le référencement de votre site web",
+      "description":"Ce tutoriel vous guidera à travers les techniques essentielles d'optimisation du référencement (SEO) pour améliorer la visibilité de votre site web dans les moteurs de recherche. Vous apprendrez à effectuer une recherche de mots clés, à optimiser les balises méta, à améliorer la vitesse de chargement du site et à créer des liens de qualité pour obtenir un meilleur classement dans les résultats de recherche. Veuillez remplir le formulaire de contact afin de recevoir le fichier PDF.",
+      "tags": [
+       
+        {
+          "name": "Audit",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "Structure",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "Optimisation",
+          "color": "orange-text-gradient"
+        },
+        {
+          "name": "Liens",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "src/assets/seeoo.jpeg"
+    }
+  ],
+  "ressourceB": 
+  [
+    {
+      "name":"Créer un site web en 2023.",
+      "description": "  Définissez l'objectif de votre site web, identifiez votre public cible et élaborez une stratégie pour atteindre vos objectifs. Créez une maquette ou un schéma de votre site web pour visualiser sa structure et son contenu. Vous pouvez utiliser des outils de conception tels que Figma, Sketch ou Adobe XD. Sélectionnez les technologies appropriées pour votre site web. Par exemple, vous pouvez utiliser HTML, CSS et JavaScript pour la partie frontale, et choisir un framework ou une bibliothèque telle que React, Angular ou Vue.js pour faciliter le développement. Veuillez remplir le formulaire de contact afin de recevoir le fichier PDF.",
+      "tags": [
+       
+        {
+          "name": "Analyser",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "Définir",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "Réaliser",
+          "color": "pink-text-gradient"
+        },
+        {
+          "name": "Déployer",
+          "color": "orange-text-gradient"
+        },
+        {
+          "name": "Maintenir",
+          "color": "green-text-gradient"
+        }
+      ],
+      "image": "src/assets/webb.png"
+    },
+    {
+      "name":"En 2023, les CMS, les site builders et l'IA et la gestion des sites web",
+      "description":"Un CMS est une plateforme logicielle qui facilite la création, la gestion et la modification de contenu sur un site web. Les CMS les plus populaires incluent WordPress, Drupal et Joomla. Ils offrent une interface conviviale et une gestion simplifiée du contenu, ce qui permet aux utilisateurs de créer des sites web sans avoir à coder. Les site builders sont des outils en ligne qui permettent aux utilisateurs de créer des sites web sans avoir à écrire de code. Ils offrent des interfaces glisser-déposer conviviales et une sélection de modèles prédéfinis pour faciliter la conception du site. Les utilisateurs peuvent personnaliser les modèles en ajoutant du contenu, des images, des vidéos et en ajustant la mise en page. Les site builders populaires incluent Wix, Squarespace et Weebly. Veuillez remplir le formulaire de contact afin de recevoir le fichier PDF. ",
+      "tags": 
+      [
+        {
+          "name": "Rechercher",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "Comparer",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "Choisir",
+          "color": "orange-text-gradient"
+        },
+        {
+          "name": "S'ameliorer",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "src/assets/ia.png"
+    },
+    {
+      "name":"Les médias sociaux jouent un rôle crucial pour les entreprises en 2023.",
+      "description": "Les médias sociaux offrent une plateforme puissante pour promouvoir une entreprise et ses produits ou services. Les entreprises peuvent créer des profils d'entreprise sur des plateformes telles que Facebook, Instagram, Twitter, LinkedIn, YouTube, etc., pour partager du contenu pertinent, des annonces, des offres spéciales et interagir avec leur public cible. Les médias sociaux permettent aux entreprises d'atteindre un large public et d'augmenter leur visibilité en ligne. Veuillez remplir le formulaire de contact afin de recevoir le fichier PDF.",
+      "tags": [
+       
+        {
+          "name": "Chercher",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "Discuter",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "Aidez",
+          "color": "orange-text-gradient"
+        },
+        {
+          "name": "Fideliser",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "src/assets/appps.png"
+    }
+  ],
+  "faq": {
+    "head": "FOIRE AUX QUESTIONS",
+    "headBig": "FAQ."
+  },
+  "faqs": 
+  [
+    {
+      "question": "Qu'est-ce que l'UX/UI et pourquoi est-ce crucial pour les sites web et les applications ?",
+      "answer": "L'UX (Expérience Utilisateur) et l'UI (Interface Utilisateur) sont les clés d'une expérience en ligne réussie. Nous créons des sites web et des applications qui offrent une expérience utilisateur fluide et intuitive, grâce à une conception UX/UI soignée. Vous voulez que votre marque se démarque ? Nous sommes là pour ça !"
+    },
+    {
+      "question": "Quels services proposez-vous en matière de conception UX/UI ?",
+      "answer": "Notre équipe talentueuse de concepteurs UX/UI offre une gamme complète de services, de la recherche utilisateur approfondie à la création de wireframes et de maquettes visuelles époustouflantes. Nous sommes passionnés par la création d'expériences engageantes qui captivent les utilisateurs dès la première seconde."
+    },
+    {
+      "question": "Comment garantissez-vous la compatibilité mobile de vos sites web et applications ?",
+      "answer": "Nous sommes des experts en conception réactive ! Nos sites web et applications s'adaptent parfaitement à tous les appareils, des ordinateurs de bureau aux smartphones en passant par les tablettes. Vous voulez que votre contenu brille sur chaque écran ? Nous nous en occupons !"
+    },
+    {
+      "question": "Pouvez-vous développer des applications mobiles pour iOS et Android ?",
+      "answer": "Absolument ! Notre équipe maîtrise le développement d'applications mobiles multiplateformes, offrant ainsi une expérience utilisateur homogène sur iOS (iPhone et iPad) et Android. Laissez-nous transformer vos idées en applications incroyables qui auront un impact réel."
+    },
+    {
+      "question": "Comment votre équipe de marketing des médias sociaux peut-elle propulser ma marque vers de nouveaux sommets ?",
+      "answer": "Nos experts en marketing des médias sociaux ont une passion contagieuse pour la croissance en ligne ! Nous élaborons des stratégies personnalisées pour propulser votre marque sur les plateformes sociales pertinentes, créons un contenu captivant, gérons des campagnes publicitaires percutantes et interagissons avec votre communauté pour susciter l'engagement. Prêt à voir votre marque briller ?"
+    },
+    {
+      "question": "Quels sont les délais de développement habituels pour un projet de site web ou d'application ?",
+      "answer": "Chaque projet est unique, mais nous nous engageons à respecter des délais réalistes. Nous travaillons en étroite collaboration avec vous pour comprendre vos objectifs et contraintes, et ainsi définir un calendrier qui correspond à vos attentes. Notre équipe dévouée mettra tout en œuvre pour que votre projet soit livré dans les temps, sans compromis sur la qualité."
+    },
+    {
+      "question": "Proposez-vous des services de maintenance et de support après la livraison du projet ?",
+      "answer": "Absolument ! Notre relation ne se termine pas à la livraison du projet. Nous sommes là pour vous accompagner à chaque étape de votre parcours. Nous assurons la maintenance, effectuons les mises à jour nécessaires et vous apportons un support technique pour vous permettre de rester serein et concentré sur votre activité. Votre succès est notre priorité !"
+    },
+    {
+      "question": "Comment puis-je vous contacter pour discuter de mon projet ou poser d'autres questions ?",
+      "answer": " Nous serions ravis d'entendre parler de votre projet ! Vous pouvez nous contacter par e-mail à ekq022@gmail.com. Vous pouvez également remplir le formulaire de contact sur notre site web. Nous sommes impatients de discuter avec vous et de vous aider à concrétiser vos idées."   
+    }
+  ],
+  "testimonial" : {
+    "head": "CE QUE DISENT LES AUTRES",
+    "headBig": "Témoignages."
+  },
+  "testimonials" : 
+  [
+    {
+      "testimonial":
+        "Je pensais qu'il était impossible de créer un site web aussi beau que notre produit, mais ils m'ont prouvé le contraire.",
+      "name": "Marie Gabrielle EKOUAGHE",
+      "designation": "CEO",
+      "company": "Mifeck",
+      "image": "https://www.linkpicture.com/q/mifeck.png"
+    },
+    {
+      "testimonial":
+        "Je n'ai jamais rencontré une agence web qui se soucie autant de la réussite de ses clients que Miscoch IT.",
+      "name": "Lmntrix022",
+      "designation": "CTO",
+      "company": "Alkebulan",
+      "image": "https://cdn.sanity.io/images/oc3ycxyf/production/5ec22acdccfe573c8a2eaa71d4909d4f138ff69a-1080x1080.png"
+    },
+    {
+      "testimonial":
+        "Après que Miscoch IT ai optimisé notre site web, notre trafic a augmenté de 50 %. Nous ne les remercierons jamais assez !",
+      "name": "Camille de MVE MBA",
+      "designation": "CEO",
+      "company": "Camplus Groupe",
+      "image": "https://cdn.sanity.io/images/oc3ycxyf/production/27e267a823fc1e44df3bf2421fa80f6d6256acdf-1080x1080.png"
+    }
+  ],
+  "contact" : {
+    "head": "CONTACTEZ-NOUS ",
+    "headBig": "Contact.",
+    "nom": "Votre nom",
+    "qnom": "Quel est votre nom ?.",
+    "email": "Votre email",
+    "qemail": "Quel est votre email ?.",
+    "message": "Votre Message",
+    "qmessage": "Que voulez-vous dire ?",
+    "send": "Envoyer",
+    "sendAf": "envoi en cours...",
+    "alrt" : "Je vous remercie. Je reviendrai vers vous dès que possible."
+  }
+
+}
+
+
+
+
+
+
+
+

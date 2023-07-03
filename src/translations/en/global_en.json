@@ -1,0 +1,458 @@
+{
+  "navbar": [
+    {
+      "id": "about",
+      "title": "About us"
+    },
+    {
+      "id": "work",
+      "title": "Our Services"
+    },
+    {
+      "id": "folio",
+      "title": "Portfolio"
+    },
+    {
+      "id": "ressources",
+      "title": "Ressources"
+    },
+    {
+      "id": "faq",
+      "title": "FAQS"
+    },
+    {
+      "id": "contact",
+      "title": "Contact"
+    }
+  ],
+  "home": {
+    "bien": "",
+    "p_company": "We are Miscoch IT",
+    "presentation_acc_1": "A digital agency located in Casablanca",
+    "presentation_acc_2": "specializing in website creation",
+    "presentation_acc_3": "custom user interfaces, mobile applications for Android and iOS, and social content creation",
+    "cta" : "Contact us"
+  },
+  "about": {
+    "title": "INTRODUCTION",
+    "textHead": "Overview.",
+    "descprition": "We're a web development agency that combines our technical expertise with a deep understanding of your business to create personalized, high-performance online experiences. We're passionate about cutting-edge technologies and are committed to constantly being at the forefront of the latest trends and innovations in web development. Our customer-centric approach enables us to work closely with you at every stage of the development process to guide you to online success. Contact us today to discuss your project and find out how we can help you achieve your online goals."
+  },
+  "services" : [
+    {
+      "title": "Custom website and application design",
+      "icon": "src/assets/world-wide-web.png"
+    },
+    {
+      "title": "Mobile application development on android and ios",
+      "icon": "src/assets/developer.png"
+    },
+    {
+      "title": "Search Engine Optimization & SEA (Google ads)",
+      "icon": "src/assets/seeeeo.png"
+    },
+    {
+      "title": "Social media marketing and content creation",
+      "icon": "src/assets/mark.png"
+    }
+  ],
+  "exper": {
+    "head": "What we do",
+    "headBig": "Our services."
+  },
+  "experM": [
+    {
+      "title": "Web development",
+      "company_name": "Miscoch IT",
+      "icon": "src/assets/logo.svg",
+      "iconBg": "#383E56",
+      "date": "</ Web development is a subtle balance between simplicity and complexity, where every line of code has an impact on the user experience. >",
+      "points": [
+        "Develop and maintain web applications using React.js and other related technologies.",
+        "Collaborate with cross-functional teams, including designers, product managers and other developers, to create high-quality products.",
+        "Implement responsive design and ensure cross-browser compatibility.",
+        "Participate in code reviews and provide constructive feedback to other developers."
+      ]
+    },
+    {
+      "title": "Développement d'applications mobiles",
+      "company_name": "Miscoch IT",
+      "icon": "src/assets/logo.svg",
+      "iconBg": "#E6DEDD",
+    "date": "</ Mobile applications are transforming our smartphones into veritable toolboxes, enabling us to accomplish previously impossible tasks with just a few clicks. >",
+    "points": [
+        "Develop and maintain web applications using React Native and other related technologies",
+        "UI design (User Interface): the look and feel of your application plays a crucial role in its success. It's how your mobile application interacts with its users. The user interface must be uniform and simple.",
+        "UX (User Experience): this is your users' point of view. It will have an impact on the way they see your brand. It has to be seamless. And don't forget that your users are browsing your application on a small screen."
+      ]
+    },
+    {
+      "title": "Enterprise application development",
+      "company_name": "Miscoch IT",
+      "icon": "src/assets/logo.svg",
+      "iconBg": "#383E56",
+      "date": "</ Enterprise applications are powerful tools that transform the way companies interact with their customers, partners and employees, creating lasting value. >",
+      "points": [
+        "We specialize in CRM web development for companies.",
+        "Our customer-centric approach and commitment to excellence enable us to create customized, high-performance CRM solutions to meet our customers' specific needs.",
+        "We're passionate about the latest trends and cutting-edge technologies in CRM web development, and we're constantly on the lookout for new ways to optimize the user experience and improve operational efficiency.",
+        "Contact us to find out how we can help you achieve your business goals with a customized CRM solution."
+      ]
+    },
+    {
+      "title": "Social media marketing",
+      "company_name": "Miscoch IT",
+      "icon": "src/assets/logo.svg",
+      "iconBg": "#E6DEDD",
+      "date": "</ Social media marketing enables brands to share their story, personality and values, creating an emotional connection with their audience. >",
+      "points": [
+        "Explore the power of online presence with our social media marketing expertise.",
+        "Our passionate team pushes creative boundaries to deliver captivating visual experiences that will amaze your customers and engage your audience.",
+        "Become a digital leader thanks to our forward-thinking strategies and our mastery of trends.",
+        "Contact us today to turn your vision into an unforgettable social reality."
+      ]
+    }
+  ],
+  "project": {
+    "head": "OUR WORK",
+    "headBig": "Projects.",
+    "headDesc": "The following projects highlight our skills and experience through concrete examples of our work. It reflects our ability to solve complex problems, work with different technologies, and manage projects efficiently."
+  },
+  
+  "projectL": [
+    
+    {
+      "name": "Professional showcase website",
+      "desc": "Your company deserves an online presence that impresses! With our expertise in creating professional showcase sites, we can showcase your business and attract the attention of potential customers. From modern, streamlined design to clear presentation of your products or services, we offer you an online showcase that reflects your company's image. Increase your visibility and attract the interest of your visitors with a showcase site that's both aesthetically pleasing and informative",      "tags": [
+        { "name": "Nextjs", "color": "blue-text-gradient" },
+        { "name": "Chakra-ui", "color": "green-text-gradient" },
+        { "name": "Sanity", "color": "pink-text-gradient" },
+        { "name": "Typescript", "color": "orange-text-gradient" }
+      ],
+      "image": "src/assets/entreprise.jpeg",
+      "source_code_link": "https://github.com/"
+    },
+    {
+      "name": "Personnal portfolio",
+      "desc": "Showcase your skills and achievements with an impressive personal portfolio. Showcase your projects, share your career path and demonstrate your creativity. An interactive, well-designed portfolio to make you stand out in your field.",      "tags": [
+        { "name": "Vite", "color": "blue-text-gradient" },
+        { "name": "SCSS", "color": "green-text-gradient" },
+        { "name": "JavaScript", "color": "orange-text-gradient" },
+        { "name": "Threejs", "color": "pink-text-gradient" }
+      ],
+      "image": "src/assets/portfolio.jpeg",
+      "source_code_link": "https://github.com/"
+    },
+    {
+      "name": "Real estate website",
+      "desc": "Give your real estate agency a professional and attractive online presence. With our expertise in web development, we can create a customized real estate agency website to help you showcase and promote your properties effectively. From the modern, aesthetic design to the user-friendly interface, we focus on the optimal user experience. Visitors will be able to easily browse the different property categories, filter results according to their preferences, view attractive photo galleries, learn more about property features and details, and get in touch with your agency to arrange viewings. ",        
+      "tags": [
+      { "name": "React", "color": "purple-text-gradient" },
+        { "name": "Next.js", "color": "blue-text-gradient" },
+        { "name": "CSS", "color": "green-text-gradient" },
+        { "name": "JavaScript", "color": "orange-text-gradient" },
+        { "name": "Graphql", "color": "pink-text-gradient" }
+      ],
+      "image": "src/assets/realest.jpeg",
+      "source_code_link": "https://github.com/"
+    },
+    {
+      "name": "Restaurant website",
+      "desc": "Your restaurant deserves an online presence to match its exceptional cuisine. Let us create your restaurant website and showcase your delicious dishes and unique atmosphere. Thanks to our expertise in web development, we can offer you an elegant, intuitive website designed specifically to attract your customers' attention and stimulate their taste buds. With a user-friendly interface, visitors will be able to navigate easily through the different sections of the site, explore your tempting menu, discover the fresh ingredients used in your dishes and obtain information on reservations and opening times.",
+      "tags": [
+        { "name": "React", "color": "pink-text-gradient" },
+        { "name": "Next.js", "color": "blue-text-gradient" },
+        { "name": "CSS", "color": "green-text-gradient" },
+        { "name": "Typescript", "color": "orange-text-gradient" }
+      ],
+      "image": "src/assets/food.png",
+      "source_code_link": "https://github.com/"
+    },
+    {
+      "name": "Project management web application",
+      "desc": "Manage your projects efficiently with this Next.js-based web application. Track tasks, assign resources, view progress reports and collaborate with your team in real time. A complete solution to improve the productivity of your project team.",      "tags": [
+        { "name": "sanity", "color": "pink-text-gradient" },
+        { "name": "Next.js", "color": "blue-text-gradient" },
+        { "name": "JavaScript", "color": "orange-text-gradient" },
+        { "name": "HTML", "color": "blue-text-gradient" },
+        { "name": "CSS", "color": "green-text-gradient" }
+      ],
+      "image": "src/assets/management.png",
+      "source_code_link": "https://github.com/"
+    },
+    {
+      "name": "Mobile instant messaging application",
+      "desc": "Stay connected with your loved ones with this mobile instant messaging application. Send messages, share photos and videos, and enjoy advanced features like audio and video calling. Available on both Android and iOS platforms thanks to the use of React Native and Flutter.",      "tags": [
+        { "name": "Flutter", "color": "blue-text-gradient" },
+        { "name": "Android", "color": "green-text-gradient" },
+        { "name": "Firebase", "color": "orange-text-gradient" },
+        { "name": "Dart", "color": "pink-text-gradient" }
+      ],
+      "image": "src/assets/messenger.png",
+      "source_code_link": "https://github.com/"
+    },
+    {
+      "name": "E-commerce website ",
+      "desc": "Create your online store with this responsive, high-performance e-commerce website. Manage products, orders, payments and provide a seamless shopping experience for your customers. The site is developed using React, Next.js and Angular to combine the advantages of these frameworks.",      "tags": [
+        { "name": "Angular", "color": "green-text-gradient" },
+        { "name": "Typescript", "color": "blue-text-gradient" },
+        { "name": "HTML", "color": "pink-text-gradient" },
+        { "name": "CSS", "color": "orange-text-gradient" },
+        { "name": "Mongodb", "color": "green-text-gradient" }
+      ],
+      "image": "src/assets/ecomm.png",
+      "source_code_link": "https://github.com/"
+    },
+    {
+      "name": "Physical activity tracking mobile application with React Native",
+      "desc": "Track your physical activity and fitness with this intuitive mobile app. Record your workouts, track your progress, set goals and get detailed stats. Available on both Android and iOS platforms thanks to the use of React Native and Flutter.",      "tags": [
+        { "name": "React Native", "color": "blue-text-gradient" },
+        { "name": "Tailwindcss", "color": "green-text-gradient" },
+        { "name": "JavaScript", "color": "orange-text-gradient" },
+        { "name": "Graphql", "color": "pink-text-gradient" },
+        { "name": "Grafbase", "color": "pink-text-gradient" }
+
+      ],
+      "image": "src/assets/gym.gif",
+      "source_code_link": "https://github.com/"
+    }
+  ],
+
+
+
+  "ressource": {
+    "head": "A LITTLE KNOWLEDGE",
+    "headBig": "Resources.",
+    "headToogle": "Blog posts",
+    "headToogle2": "Tutorials"
+  },
+  "ressourceT": 
+  [
+    {
+      "name": "Creating a website with WordPress",
+      "description": "In this tutorial, you'll learn step-by-step how to create a professional website using WordPress, one of the most popular and user-friendly CMS. Whether you're a beginner or an advanced user, this guide will walk you through each step, from installing WordPress to customizing the theme and adding content. Please fill in the contact form to receive the PDF file",      "tags": [
+       
+        {
+          "name": "To know more",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "Install",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "Personalization",
+          "color": "pink-text-gradient"
+        },
+        {
+          "name": "Plugins",
+          "color": "orange-text-gradient"
+        },
+        {
+          "name": "Maintenance",
+          "color": "green-text-gradient"
+        }
+      ],
+      "image": "src/assets/wordpess.svg"
+    },
+    {
+      "name": "Complete guide to developing a successful social media marketing strategy",
+      "description": "This tutorial will help you understand the key principles of social media marketing and develop an effective strategy to promote your business on social media platforms. You'll discover best practices for content creation, user engagement and results measurement, to optimize your online presence. You'll discover best practices for content creation, user engagement and results measurement to optimize your online presence.Please fill out the contact form to receive the PDF file.",      "tags": 
+      [
+        {
+          "name": "Search",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "Compare",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "Choose",
+          "color": "orange-text-gradient"
+        },
+        {
+          "name": "Improving",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "src/assets/strategiem.jpeg"
+    },
+    {
+      "name": "A complete guide to optimizing your website's SEO",
+      "description": "This tutorial will guide you through essential search engine optimization (SEO) techniques to improve your website's visibility in search engines. You'll learn how to perform keyword research, optimize meta tags, improve site loading speed and create quality links to rank higher in search results. Please fill in the contact form to receive the PDF file",      "tags": [
+       
+        {
+          "name": "Audit",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "Structure",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "Optimization",
+          "color": "orange-text-gradient"
+        },
+        {
+          "name": "Links",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "src/assets/seeoo.jpeg"
+    }
+  ],
+  "ressourceB": 
+  [
+    {
+      "name":"Create a website in 2023.",
+      "description": "Define the purpose of your website, identify your target audience and develop a strategy to achieve your goals. Create a mock-up or diagram of your website to visualize its structure and content. You can use design tools such as Figma, Sketch or Adobe XD. Select the appropriate technologies for your website. For example, you can use HTML, CSS and JavaScript for the front end, and choose a framework or library such as React, Angular or Vue.js to facilitate development. Please fill in the contact form to receive the PDF file.",      "tags": [
+       
+        {
+          "name": "Analyze",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "Define",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "Realize",
+          "color": "pink-text-gradient"
+        },
+        {
+          "name": "Deploy",
+          "color": "orange-text-gradient"
+        },
+        {
+          "name": "Maintain",
+          "color": "green-text-gradient"
+        }
+      ],
+      "image": "src/assets/webb.png"
+    },
+    {
+      "name": "In 2023, CMS, site builders and AI and website management",
+      "description": "A CMS is a software platform that facilitates the creation, management and modification of content on a website. Popular CMS include WordPress, Drupal and Joomla. They offer a user-friendly interface and simplified content management, enabling users to create websites without coding. Site builders are online tools that enable users to create websites without having to write code. They offer user-friendly drag-and-drop interfaces and a selection of predefined templates to facilitate site design. Users can customize templates by adding content, images, videos and adjusting the layout. Popular site builders include Wix, Squarespace and Weebly. Please fill in the contact form to receive the PDF file. ",      "tags": 
+      [
+        {
+          "name": "Search",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "Compare",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "Choose",
+          "color": "orange-text-gradient"
+        },
+        {
+          "name": "Improving",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "src/assets/ia.png"
+    },
+    {
+      "name": "Social media play a crucial role for businesses in 2023.",
+      "description": "Social media offers a powerful platform to promote a company and its products or services. Companies can create company profiles on platforms such as Facebook, Instagram, Twitter, LinkedIn, YouTube, etc., to share relevant content, announcements, special offers and interact with their target audience. Social media enables companies to reach a wide audience and increase their online visibility. Please fill in the contact form to receive the PDF file",      "tags": [
+       
+        {
+          "name": "Search",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "Discuss",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "Help",
+          "color": "orange-text-gradient"
+        },
+        {
+          "name": "Build loyalty",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "src/assets/appps.png"
+    }
+  ],
+  "faq": {
+    "head": "FREQUENTLY ASKED QUESTIONS",
+    "headBig": "FAQS."
+  },
+  "faqs": 
+  [
+    {
+      "question": "What is UX/UI and why is it crucial for websites and applications?",
+      "answer": "UX (User Experience) and UI (User Interface) are the keys to a successful online experience. We create websites and applications that offer a fluid, intuitive user experience, thanks to meticulous UX/UI design. Want your brand to stand out? That's what we're here for!"    },
+    {
+      "question": "What UX/UI design services do you offer?",
+      "answer": "Our talented team of UX/UI designers offers a full range of services, from in-depth user research to the creation of wireframes and stunning visual mock-ups. We're passionate about creating engaging experiences that captivate users from the very first second."    },
+    {
+      "question": "How do you guarantee the mobile compatibility of your websites and applications?",
+      "answer": "We're experts in responsive design! Our websites and applications adapt perfectly to all devices, from desktops to smartphones and tablets. Want your content to shine on every screen? We've got you covered!"    },
+    {
+      "question": "Can you develop mobile applications for iOS and Android?",
+      "answer": "Absolutely! Our team has mastered cross-platform mobile app development, delivering a seamless user experience on iOS (iPhone and iPad) and Android. Let us turn your ideas into incredible apps that will make a real impact."    },
+    {
+      "question": "How can your social media marketing team propel my brand to new heights?",
+      "answer": "Our social media marketing experts have an infectious passion for online growth! We develop customized strategies to propel your brand across relevant social platforms, create captivating content, manage impactful advertising campaigns and interact with your community to drive engagement. Ready to see your brand shine?"    },
+    {
+      "question": "What are the usual development times for a website or application project?",
+      "answer": "Every project is unique, but we are committed to meeting realistic deadlines. We work closely with you to understand your objectives and constraints, and so define a schedule that meets your expectations. Our dedicated team will do everything possible to ensure that your project is delivered on time, without compromising on quality."    },
+    {
+      "question": "Do you offer maintenance and support services after project delivery?",
+      "answer": "Absolutely! Our relationship doesn't end with the delivery of the project. We're here to support you every step of the way. We provide maintenance, updates and technical support to keep you focused on your business. Your success is our priority!"    },
+    {
+      "question": "How can I contact you to discuss my project or ask other questions?",
+      "answer": "We'd love to hear about your project! You can contact us by e-mail at ekq022@gmail.com. You can also fill in the contact form on our website. We look forward to talking with you and helping you turn your ideas into reality."    }
+  ],
+  "testimonial" : {
+    "head": "WHAT OTHERS SAY",
+    "headBig": "Testimonials."
+  },
+  "testimonials" : 
+  [
+    {
+      "testimonial":
+      "I thought it was impossible to create a website as beautiful as our product, but they proved me wrong.",
+      "name": "Marie Gabrielle EKOUAGHE",
+      "designation": "CEO",
+      "company": "Mifeck",
+      "image": "https://www.linkpicture.com/q/mifeck.png"
+    },
+    {
+      "testimonial":
+      "I've never met a web agency that cares as much about its customers' success as Miscoch IT.",
+      "name": "Lmntrix022",
+      "designation": "CTO",
+      "company": "Alkebulan",
+      "image": "https://cdn.sanity.io/images/oc3ycxyf/production/5ec22acdccfe573c8a2eaa71d4909d4f138ff69a-1080x1080.png"
+    },
+    {
+      "testimonial":
+      "After Miscoch IT optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "name": "Camille de MVE MBA",
+      "designation": "CEO",
+      "company": "Camplus Groupe",
+      "image": "https://cdn.sanity.io/images/oc3ycxyf/production/27e267a823fc1e44df3bf2421fa80f6d6256acdf-1080x1080.png"
+    }
+  ],
+  "contact" : {
+    "head": "CONTACT US",
+    "headBig": "Contact.",
+    "nom": "Your name",
+    "qnom": "What's your name?",
+    "email": "Your email address",
+    "qemail": "What's your email address?",
+    "message": "Your Message",
+    "qmessage": "What do you mean?",
+    "send": "Send",
+    "sendAf": "sending in progress...",
+    "alrt": "Thank you. I'll get back to you as soon as possible."
+  }
+
+
+}
