@@ -41,7 +41,7 @@
   "services" : [
     {
       "title": "Custom website and application design",
-      "icon": "dist/assets/world-wide-web-4f4744ec.png"
+      "icon": "dist/assets/world-wide-web.png"
     },
     {
       "title": "Mobile application development on android and ios",
