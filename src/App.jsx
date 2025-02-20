@@ -15,15 +15,10 @@ const App = () => {
     const iframeStyles = document.createElement("style");
     iframeStyles.textContent = `
       .chat-frame {
-        position: fixed;
-        bottom: 20px;
-        right: 20px;
-        width: 350px;
-        height: 500px;
-        border: none;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        border-radius: 10px;
-        z-index: 1000;
+       position: fixed;
+            bottom: 50px;
+            right: 50px;
+            border: none;
       }
     `;
     document.head.appendChild(iframeStyles);
