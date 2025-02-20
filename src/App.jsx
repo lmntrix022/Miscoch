@@ -14,7 +14,6 @@ const App = () => {
 
     const iframeStyles = document.createElement("style");
     iframeStyles.textContent = `
-      iframeStyles.textContent = `
         .chat-frame {
           position: fixed;
           bottom: 50px;
