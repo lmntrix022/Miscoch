@@ -1,4 +1,4 @@
-import { BrowserRouter } from "react-router-dom";
+import { BrowserRouter, Route } from "react-router-dom";
 import { useEffect, useState } from "react";
 import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, StarsCanvas, Footer, Ressources, Faq } from "./components";
 
@@ -10,13 +10,12 @@ const App = () => {
   };
 
   const userLanguage = getUserLanguage();
-  console.log("Langue préférée de l'utilisateur :", userLanguage);
+  console.log('Langue préférée de l\'utilisateur :', userLanguage);
 
   useEffect(() => {
     if (!isChatOpen) return; // Ne crée l'iframe que si le chat est ouvert
 
     const iframe = document.createElement("iframe");
-
     iframe.src = "http://localhost:3000/chatbot";
     iframe.classList.add("chat-frame");
 
@@ -40,29 +39,29 @@ const App = () => {
 
   return (
     <BrowserRouter>
-      <div className="relative z-0 bg-primary">
-        <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center">
+      <div className='relative z-0 bg-primary'>
+        <div className='bg-hero-pattern bg-cover bg-no-repeat bg-center'>
           <Navbar />
           <Hero />
         </div>
         <About />
-        <div className="bg-hero-pattern bg-cover bg-center">
+        <div className='bg-hero-pattern bg-cover bg-center'>
           <Experience />
         </div>
         <Tech />
-        <div className="bg-hero-pattern bg-cover bg-center">
+        <div className='bg-hero-pattern bg-cover bg-center'>
           <Works />
         </div>
-        <div className="bg-hero-pattern bg-cover bg-center">
+        <div className='bg-hero-pattern bg-cover bg-center'>
           <Ressources />
         </div>
-        <div className="bg-hero-pattern bg-cover bg-center">
+        <div className='bg-hero-pattern bg-cover bg-center'>
           <Faq />
         </div>
-        <div className="bg-hero-pattern bg-cover bg-center">
+        <div className='bg-hero-pattern bg-cover bg-center'>
           <Feedbacks />
         </div>
-        <div className="relative z-0">
+        <div className='relative z-0'>
           <Contact />
           <StarsCanvas />
         </div>
