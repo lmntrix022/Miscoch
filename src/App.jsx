@@ -19,6 +19,7 @@ const App = () => {
             bottom: 50px;
             right: 50px;
             border: none;
+            background-color: transparent;
       }
     `;
     document.head.appendChild(iframeStyles);
