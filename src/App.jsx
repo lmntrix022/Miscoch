@@ -13,14 +13,14 @@ const App = () => {
     const iframe = document.createElement("iframe");
 
     const iframeStyles = document.createElement("style");
-      iframeStyles.textContent = `
-        .chat-frame {
-          position: fixed;
-          border: none;
-          z-index: 1000;
-          background-color: transparent;
-
-        }
+    iframeStyles.textContent = `
+      .chat-frame {
+        position: fixed;
+        border: none;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        border-radius: 10px;
+        z-index: 1000;
+      }
     `;
     document.head.appendChild(iframeStyles);
 
