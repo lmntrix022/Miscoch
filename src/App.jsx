@@ -41,7 +41,7 @@ const App = () => {
         iframe.width = dimensions.width
         iframe.height = dimensions.height
         iframe.contentWindow.postMessage("f422b011-ba11-4958-af20-01b7f29d08a0", "http://localhost:3000/")
-    })
+    });
         
  
   return (
